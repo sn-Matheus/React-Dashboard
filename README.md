@@ -2,5 +2,5 @@
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 ## Introduction
-This is a code repository for a DAshboard!
+This is a code repository for a Dashboard!
 
